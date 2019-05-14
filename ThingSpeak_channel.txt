@@ -1,0 +1,10 @@
+Name: Test
+Channel ID: 717702
+Access: Public
+Read API Key: QAESIJ22Z0SRF47C
+Write API Key: L7ZNPRXCYVWMMV6S
+Fields:
+      1: Age 
+      2: Gender 
+      3: State 
+      4: Disease 
